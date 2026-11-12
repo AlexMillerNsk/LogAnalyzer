@@ -1,0 +1,5 @@
+2026-01-15 08:32:07 INFO [OrderService] Order 10432 created for user 88213
+2026-01-15 08:32:11 ERROR [PaymentService] Payment failed for order 10432: gateway timeout
+2026-01-15 08:33:02 WARN [InventoryService] Stock low for SKU A-2231: 3 left
+2026-01-15 08:35:44 CRITICAL [PaymentService] Database connection lost
+не лог, а мусорная строка без структуры
